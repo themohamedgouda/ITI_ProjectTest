@@ -7,6 +7,7 @@ namespace ITI_Project
         static void Main(string[] args)
         {
             ITI_Database database = new ITI_Database();
+            Console.WriteLine("I love you");
         }
     }
 }
